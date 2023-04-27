@@ -1,9 +1,9 @@
-### keyboards_configs/logitech_K380_lock_FN.sh
+## keyboards_configs/logitech_K380_lock_FN.sh
 Commands to set FN key as default in Logitech K380 keyboard
 
 Source: https://askubuntu.com/questions/699138/logitech-k380-bluetooth-keyboard-make-function-keys-default
 
-### Keyboard keys configuration
+## Keyboard keys configuration
 Some pt-br adaptations to en-us keyboard
 
 Follow the steps:
