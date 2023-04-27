@@ -1,0 +1,4 @@
+keycode 108 = Mode_switch
+keysym q = q Q slash
+keysym w = w W question
+
